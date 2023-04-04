@@ -3,3 +3,5 @@
 [Post. 최현호](/chapter1/chh.md)
 
 [Post. 송가영](/chapter1/gazero.md)
+
+[Post. 유지인](/chapter1/yji.md)
