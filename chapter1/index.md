@@ -5,3 +5,5 @@
 [Post. 송가영](/chapter1/gazero.md)
 
 [Post. 유지인](/chapter1/yji.md)
+
+[Post. 이경미](/chapter1/mia.md)
