@@ -61,3 +61,5 @@
 [chapter2. 타입 시스템](/chapter2/index.md)
 
 [chapter3. 유니언과 리터럴](/chapter3/index.md)
+
+[chapter4. 객체](/chapter4/index.md)
