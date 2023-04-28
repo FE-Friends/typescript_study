@@ -14,7 +14,7 @@ const gazero = {...} 형태의 구문
 gazero.멤버 혹은 gazero['멤버']
 ```
 
-따라서, gazero객체 리터럴 안에 객체의 음span style='background-color: #DAB4B8; color:#000'>속성명</span>이 존재하는 경우 해당 방법으로 해당 <span style='background-color: #DAB4B8; color:#000'>속성값</span>에 접근이 가능 !
+따라서, gazero객체 리터럴 안에 객체의 <span style='background-color: #DAB4B8; color:#000'>속성명</span>이 존재하는 경우 해당 방법으로 해당 <span style='background-color: #DAB4B8; color:#000'>속성값</span>에 접근이 가능 !
 
 ![](https://velog.velcdn.com/images/gazero_/post/1c865cc5-fe27-4558-ae98-451e12469f5c/image.png)
 
