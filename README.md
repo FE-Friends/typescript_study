@@ -59,3 +59,5 @@
 [chapter3. 유니언과 리터럴](/chapter3/index.md)
 
 [chapter4. 객체](/chapter4/index.md)
+
+[chapter5. 함수](/chapter5/index.md)
