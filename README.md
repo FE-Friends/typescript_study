@@ -61,3 +61,5 @@
 [chapter4. 객체](/chapter4/index.md)
 
 [chapter5. 함수](/chapter5/index.md)
+
+[chapter6. 배열](/chapter6/index.md)
