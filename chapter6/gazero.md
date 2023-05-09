@@ -189,11 +189,11 @@ function first(input: string): [string, number] {
   return [input[0], input.length]
 }
 
-일때,
+반환 타입으로 (string|number)[]임/ [string, number]가 아님,
 
 const [firstChar, size] = first("gazero");
 
-에서 firstChar 타입은 string이고, size는 number타입
+에서 firstChar 타입은 string|number이고, size도 string|number타입으로 유추함
 ```
 
 #### const 어서션
