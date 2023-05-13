@@ -63,3 +63,5 @@
 [chapter5. 함수](/chapter5/index.md)
 
 [chapter6. 배열](/chapter6/index.md)
+
+[chapter7. 인터페이스](/chapter7/index.md)
