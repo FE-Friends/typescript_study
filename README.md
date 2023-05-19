@@ -65,3 +65,5 @@
 [chapter6. 배열](/chapter6/index.md)
 
 [chapter7. 인터페이스](/chapter7/index.md)
+
+[chapter8. 인터페이스](/chapter8/index.md)
