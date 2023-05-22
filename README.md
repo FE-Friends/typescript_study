@@ -66,4 +66,4 @@
 
 [chapter7. 인터페이스](/chapter7/index.md)
 
-[chapter8. 인터페이스](/chapter8/index.md)
+[chapter8. 클래스](/chapter8/index.md)
