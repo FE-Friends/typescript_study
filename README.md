@@ -67,3 +67,5 @@
 [chapter7. 인터페이스](/chapter7/index.md)
 
 [chapter8. 클래스](/chapter8/index.md)
+
+[chapter9. 타입제한자](/chapter9/index.md)
